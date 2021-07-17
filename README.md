@@ -1,4 +1,4 @@
-#Project 6
+Managing SQL
 
 With this project, you can see an express project managing a SQL Library Manager. In here you will find:
 
@@ -10,4 +10,3 @@ With this project, you can see an express project managing a SQL Library Manager
 
 BY Justin Black
 
-Going for Meet Expectations
