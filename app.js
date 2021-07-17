@@ -1,8 +1,6 @@
-// Techdegree Project 8 
+// Project 
 // SQL Library Database
 // By Justin Black
-
-// Going for meeting expectations
 
 
 var createError = require('http-errors');
